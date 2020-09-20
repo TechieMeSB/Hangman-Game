@@ -6,10 +6,13 @@
 ## Prerequisite
 #### Node-js installed 
 
+## Technology used
+#### React.js
+
 ## Steps to create React app :
 #### :diamonds: Run -> npx create-react-app my-react-app
 #### :diamonds: cd into my-react-app
 #### :diamonds: npm start
 
 ## Final Result
-![Hangman](/public/hangman.jpg)
+#### ![Hangman](/public/hangman.jpg)
