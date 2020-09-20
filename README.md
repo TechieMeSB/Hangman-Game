@@ -12,4 +12,4 @@
 #### :diamonds: npm start
 
 ## Final Result
-![Hangman](/hangman.jpg)
+![Hangman](/public/hangman.jpg)
